@@ -329,6 +329,10 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) to view the application.
 
 ---
+## 📄 License
+
+This project is [Apache licensed](LICENSE) ✨
+
 
 ## 🛡️ Health Guardrails & Disclaimer
 > [!IMPORTANT]
